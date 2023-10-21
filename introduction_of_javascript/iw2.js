@@ -1,9 +1,16 @@
-// Problem 2 : Given any character, if it is a vowel print "Vowel
+/*Define a variable called name with your Name as the assigned value
+Print the value stored in the variable name
+Change the variable to store your father's name
+Print the value stored in the variable name
+Change the variable again to store your mother's name.
+Print the value stored in the variable name */
 
 
-let str = "u";
+let myname = "Saher Fatma";
+console.log(myname);
 
-if(str == "a" || str == "e" || str == "i" || str == "o" || str == "u") 
-{
-  console.log("Vowel");
-}
+let fathername ="Iftekhar Husain";
+console.log(fathername);
+
+let mothername ="Mobin Fatma";
+console.log(mothername);
